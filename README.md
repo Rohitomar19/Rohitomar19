@@ -25,12 +25,12 @@
 
 Hi! I'm **Rohit Tomar**, a Data Science Engineer passionate about building practical applications at the intersection of artificial intelligence, machine learning, data analytics, and software development.
 
-- 🔬 Building and experimenting with machine learning and deep learning applications.
-- 🧠 Exploring Generative AI, LLMs, RAG, and AI-powered applications.
-- 🌐 Developing full-stack applications using React, Node.js, and databases.
-- 📊 Turning raw data into meaningful insights through analysis and visualization.
-- 💡 Solved 650+ coding problems across LeetCode and GeeksforGeeks.
-- ⚡ My philosophy: Learn continuously, build thoughtfully, and solve real problems.
+- 🔬 Creating and testing solutions powered by machine learning and deep learning.
+- 🧠 Diving into Generative AI, LLMs, RAG, and intelligent AI systems.
+- 🌐 Building interactive web applications with React, Node.js, and modern databases.
+- 📊 Analyzing datasets to uncover patterns, trends, and actionable insights.
+- 💻 Practiced problem-solving through 650+ challenges on LeetCode and GeeksforGeeks.
+- 🚀 Always curious to learn new technologies, develop practical solutions, and grow as an engineer.
 
 ---
 
@@ -193,13 +193,17 @@ A web-based coding project designed to provide an online editing and live-previe
 <a href="https://github.com/Rohitomar19">
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rohit-tomar-72r34/)">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
+</a>
+<a href="mailto:studentrohit7234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### ✨ Thanks for stopping by!
+### ✨ Thanks for Visiting My Profile!
 
-*Keep learning, keep building, and make technology useful.*
+*Innovating with code, learning with curiosity, and growing with every project. 🚀*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64dfc6,100:667eea&height=100&section=footer" width="100%" />
 
